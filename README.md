@@ -4,7 +4,7 @@
 
 ## インストール
 
-このスクリプトは [Greasy Fork](https://greasyfork.org/ja/scripts/9999-calculation-of-selection-length) のページからインストールすることが出来ます。
+このスクリプトは [Greasy Fork](https://greasyfork.org/ja/scripts/9647-calculation-of-selection-length) のページからインストールすることが出来ます。
 
 インストールおよび実行するには下記のような拡張が必要になります。
 
